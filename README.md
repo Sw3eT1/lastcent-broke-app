@@ -1,16 +1,32 @@
-#💸 LastCent Financial — Because You Deserve What's Left
-Welcome to LastCent Financial, the premier (fictional) banking experience for those of us who are spiritually rich but financially... aspirational.
+# 💸 LastCent Financial
 
-This Java-based banking app lets you:
+> Because you deserve what's left.
 
-💰 Create accounts with imaginary funds
+Welcome to **LastCent Financial** — the premier (*fictional*) banking experience for those of us who are spiritually rich but financially... aspirational.
 
-🏦 Manage balances that never existed
+---
 
-📉 Simulate transactions that remind you why real banks say "Insufficient Funds"
+## 🚀 About the Project
 
-🤖 Pretend you have customers!
+This is a Java-based parody banking app designed for fun, learning, and the occasional existential crisis about your finances.
 
-Built for fun, learning, and a deep existential reflection on why your wallet is lighter than your codebase.
+### What you can do:
 
-Disclaimer: This is a parody project. Please don’t try to buy coffee using this app. You will stay broke. Possibly more broke.
+- 💰 **Create accounts** with imaginary funds  
+- 🏦 **Manage balances** that never existed  
+- 📉 **Simulate transactions** that teach you why real banks say *"Insufficient Funds"*  
+- 🤖 **Pretend you have customers** (they’re imaginary, too!)
+
+---
+
+## ⚠️ Disclaimer
+
+This is a **satirical project**.  
+Please don’t attempt to buy coffee, crypto, or rent using this app.  
+You *will* stay broke. Possibly **more** broke.
+
+---
+
+## 📄 License
+
+Released under the [MIT License](./LICENSE).
